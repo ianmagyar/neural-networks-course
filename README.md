@@ -15,7 +15,7 @@ Prednáška z predmetu je v stredu o 10:50 v miestnosti B520 v hlavnej budove. C
 
 | Týždeň |                            Prednáška                          |               Cvičenie               |
 |:------:|:-------------------------------------------------------------:|:------------------------------------:|
-| 1      |                                                               |   úvodné cvičenie, základy Pythonu   |
+| 1      |                                                               |   [úvodné cvičenie, základy Pythonu](https://github.com/ianmagyar/neural-networks-course/blob/master/labs/lab1-getting-started.md)   |
 | 2      |                                                               |                                      |
 | 3      |                                —                              |                                      |
 | 4      |                                                               |  	                                |
