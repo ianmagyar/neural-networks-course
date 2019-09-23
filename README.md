@@ -17,7 +17,7 @@ Prednáška z predmetu je v stredu o 10:50 v miestnosti B520 v hlavnej budove. C
 |:------:|:-------------------------------------------------------------:|:------------------------------------:|
 | 1      |                                                               |   [úvodné cvičenie, základy Pythonu](https://github.com/ianmagyar/neural-networks-course/blob/master/labs/lab1-getting-started.md)   |
 | 2      |                                                               |                                      |
-| 3      |                                —                              |                                      |
+| 3      |                                —                              |                —                     |
 | 4      |                                                               |  	                                |
 | 5      |                                                               |                                      |
 | 6      |                                                               |                                      |
@@ -43,6 +43,6 @@ Počas semestra odovzdá každý študent štyri zadania:
 
 ## Odporúčaná literatúra <a name="textbooks"></a>
 
-* SINČÁK, ANDERJKOVÁ : Neuronové siete I., Inžiniersky prístup, Elfa, Košice, 1996
+* SINČÁK, ANDREJKOVÁ : Neuronové siete I., Inžiniersky prístup, Elfa, Košice, 1996
 * HAYKIN: Neural Networks: A Comprehensive Foundation, MacMillan, 1994
 * ďalšie zdroje budú dodené na prednáškach
