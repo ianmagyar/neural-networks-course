@@ -35,8 +35,8 @@ Celkové hodnotenie predmetu je 100 bodov (40 + 60 bodov); študent musí získa
 
 Počas semestra odovzdá každý študent štyri zadania:
 
-1. prehľadový článok o možnosti využitia neurónových sietí (10 b),
-2. implementácia algoritmu backpropagation (10 b),
+1. prehľadový článok o možnosti využitia neurónových sietí (15 b),
+2. implementácia algoritmu backpropagation (5 b),
 3. implementácia nekontrolovaného učenia pomocou Kohonenovej siete a návrh (10 b),
 4. trénovanie neurónovej siete pre klasifikáciu pomocou knižnice Keras (10 b).
 
