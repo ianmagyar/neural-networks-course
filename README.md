@@ -43,7 +43,7 @@ Celkové hodnotenie predmetu je 100 bodov (40 + 60 bodov); študent musí získa
 
 Počas semestra odovzdá každý študent štyri zadania:
 
-1. prehľadový článok o možnostiach využitia neurónových sietí - [šablóna](https://github.com/ianmagyar/neural-networks-course/blob/master/assignments/sablona-na-clanok-ZNS-KKUI.zip) (15 b),
+1. [prehľadový článok o možnostiach využitia neurónových sietí](assignments/assignment1.md) (15 b),
 2. implementácia algoritmu backpropagation (5 b),
 3. implementácia nekontrolovaného učenia pomocou Kohonenovej siete a návrh (10 b),
 4. trénovanie neurónovej siete pre klasifikáciu pomocou knižnice Keras (10 b).
