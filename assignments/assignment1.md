@@ -24,13 +24,13 @@ Odporúčaná štruktúra článku:
 1. Využitie neurónových sietí v automobilovom priemysle (autonómne vozidlá a kontrolné systémy)
 2. Využitie neurónových sietí v ekonomike
 3. Využitie neurónových sietí v energetickom priemysle
-4. Využitie neurónových sietí v kyberbezpečnosti
+4. **Využitie neurónových sietí v kyberbezpečnosti** – Chocholáček, Labant, Tóth
 5. Využitie neurónových sietí v marketingu
-6. Využitie neurónových sietí v medicíne (diagnostika a liečba)
-7. Využitie neurónových sietí v predpovedi počasia a prírodných katastrof
-8. Využitie neurónových sietí vo vývoji počítačových hier
+6. **Využitie neurónových sietí v medicíne (diagnostika a liečba)** – Hoško, Leščák, Neupauer
+7. **Využitie neurónových sietí v predpovedi počasia a prírodných katastrof** – Čejka, Jenigár, Kiňo
+8. **Využitie neurónových sietí vo vývoji počítačových hier** – Horňák, Varga, Vitko, Žingor
 9. Využitie neurónových sietí v riadení mestskej dopravy
-10. Využitie neurónových sietí v robotike
+10. **Využitie neurónových sietí v robotike** – Bank-Bedei, Paramonov, Replyuk, Shaban
 11. Využitie neurónových sietí v rozpoznávaní dezinformácií
 12. Využitie neurónových sietí v spracovaní a generovaní obrazu
 13. Využitie neurónových sietí v spracovaní a generovaní textu
