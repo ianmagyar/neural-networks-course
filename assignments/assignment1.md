@@ -29,12 +29,12 @@ Odporúčaná štruktúra článku:
 6. **Využitie neurónových sietí v medicíne (diagnostika a liečba)** – Hoško, Leščák, Neupauer
 7. **Využitie neurónových sietí v predpovedi počasia a prírodných katastrof** – Čejka, Jenigár, Kiňo
 8. **Využitie neurónových sietí vo vývoji počítačových hier** – Horňák, Varga, Vitko, Žingor
-9. Využitie neurónových sietí v riadení mestskej dopravy
+9. **Využitie neurónových sietí v riadení mestskej dopravy** – Kostka, Krajňák, Suchanič, Vojtko
 10. **Využitie neurónových sietí v robotike** – Bank-Bedei, Paramonov, Replyuk, Shaban
-11. Využitie neurónových sietí v rozpoznávaní dezinformácií
-12. Využitie neurónových sietí v spracovaní a generovaní obrazu
-13. Využitie neurónových sietí v spracovaní a generovaní textu
-14. Využitie neurónových sietí v športovej analýze
+11. **Využitie neurónových sietí v rozpoznávaní dezinformácií** – Kočkár, Kondáš, Krupáš, Szász
+12. **Využitie neurónových sietí v spracovaní a generovaní obrazu** – Hudák, Jahňak, Lukáč, Novakovský
+13. **Využitie neurónových sietí v spracovaní a generovaní textu** – Barabas, Burkuš, Kačeňáková
+14. **Využitie neurónových sietí v športovej analýze** – Kotsur, Nosenko, Sushynskyi
 
 ## Deadline a odovzdávka
 Deadline odovzdania je 27. 10. 2019. Súčasťou odovzdávky je aj prezentácia, ktorú odprezentujete na cvičeniach v 7. týždni. Zadania odovzdáte mailom na jan.magyar@tuke.sk alebo zdielaním LaTeX projektu na [Overleaf](https://www.overleaf.com). Ak váš článok posielate mailom, odovzdávka musí obsahovať PDF súbor článku aj zazipovaný LaTeX projekt.
