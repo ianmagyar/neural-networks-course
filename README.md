@@ -4,6 +4,8 @@
 
 Informačný list predmetu je dostupný na [školskom portáli](https://maisportal.tuke.sk/portal/studijneProgramy.mais).
 
+Pridajte sa do [facebook skupiny predmetu](https://facebook.com/groups/1812751822192011/).
+
 ## Obsah
 1. [Plán prednášok a cvičení](#plan)
 2. [Odkazy na pomocné materiály](#links)
