@@ -21,7 +21,7 @@ Odporúčaná štruktúra článku:
 
 ## Témy
 
-1. Využitie neurónových sietí v automobilovom priemysle (autonómne vozidlá a kontrolné systémy)
+1. **Využitie neurónových sietí v automobilovom priemysle (autonómne vozidlá a kontrolné systémy)** – Kyseľ
 2. Využitie neurónových sietí v ekonomike
 3. Využitie neurónových sietí v energetickom priemysle
 4. **Využitie neurónových sietí v kyberbezpečnosti** – Chocholáček, Labant, Tóth
