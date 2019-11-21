@@ -47,8 +47,8 @@ Počas semestra odovzdá každý študent štyri zadania:
 
 1. [prehľadový článok o možnostiach využitia neurónových sietí](assignments/assignment1.md) (15 b),
 2. [implementácia algoritmu backpropagation](assignments/assignment2.md) (5 b),
-3. implementácia nekontrolovaného učenia pomocou Kohonenovej siete a návrh (10 b),
-4. trénovanie neurónovej siete pre klasifikáciu pomocou knižnice Keras (10 b).
+3. [implementácia nekontrolovaného učenia pomocou Kohonenovej siete](assignments/assignment3.md) (10 b),
+4. [trénovanie neurónovej siete pre klasifikáciu pomocou knižnice Keras](assignments/assignment4.md) (10 b).
 
 Otázky na skúšku nájdete [tu](https://github.com/ianmagyar/neural-networks-course/blob/master/exam/otazky_ZNS_skuska.pdf).
 
