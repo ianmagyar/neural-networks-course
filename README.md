@@ -1,6 +1,6 @@
 # Neurónové siete
 
-**Neurónové siete** je kurz ponúknutý v treťom ročníku bakalárskeho štúdia pre študijný program Inteligentné systémy. Kurz nadväzuje na kurzy [Základy inteligencie systémov](http://www.cloudai.sk/courses-zis/) a [Umelá inteligencia](http://www.cloudai.sk/umela-inteligencia/). Venuje sa umelým neurónovým sieťam, ich typov a využitiu.
+**Neurónové siete** je kurz ponúknutý v druhom ročníku bakalárskeho štúdia pre študijný program Inteligentné systémy. Kurz nadväzuje na kurzy [Základy inteligencie systémov](http://www.cloudai.sk/courses-zis/) a [Umelá inteligencia](http://www.cloudai.sk/umela-inteligencia/). Venuje sa umelým neurónovým sieťam, ich typov a využitiu.
 
 Informačný list predmetu je dostupný na [školskom portáli](https://maisportal.tuke.sk/portal/studijneProgramy.mais).
 
@@ -14,7 +14,7 @@ Pridajte sa do [facebook skupiny predmetu](https://www.facebook.com/groups/26277
 
 ## Plán prednášok a cvičení <a name="plan"></a>
 
-Prednáška z predmetu je v stredu o 10:50 v miestnosti B520 v hlavnej budove. Cvičenia sú v pondelok o 7:30 a vo štvrtok o 9:10 v miestnosti 102 v budove V4. Účasť na cvičeniach je povinná, študent môže mať maximálne tri neúčasti za semester.
+Prednáška z predmetu je v utorok o 13:30 v miestnosti S07 (bývalá PC5) v budove PK6. Cvičenia sú v pondelok o 7:30 v miestnosti 102 v budove V4 a o 10:50 v miestnosti 147 v budove V4. Účasť na cvičeniach je povinná, študent môže mať maximálne tri neúčasti za semester.
 
 | Týždeň                    | Prednáška | Cvičenie                                                           | Zadania                  |
 |---------------------------|-----------|--------------------------------------------------------------------|--------------------------|
