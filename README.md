@@ -16,9 +16,9 @@ Pridajte sa do [facebook skupiny predmetu](https://www.facebook.com/groups/26277
 
 Prednáška z predmetu je v utorok o 13:30 v miestnosti S07 (bývalá PC5) v budove PK6. Cvičenia sú v pondelok o 7:30 v miestnosti 102 v budove V4 a o 10:50 v miestnosti 147 v budove V4. Účasť na cvičeniach je povinná, študent môže mať maximálne tri neúčasti za semester.
 
-| Týždeň                    | Prednáška | Cvičenie                                                           | Zadania                  |
-|---------------------------|-----------|--------------------------------------------------------------------|--------------------------|
-| Týždeň 1<br>17. 2. - 23. 2.  |           | [matematické základy neurónových sietí](labs/01-maths.pdf)         | [zverejnenie zadania 1](assignments/assignment1.md)    |
+| Týždeň                       | Prednáška | Cvičenie                                                           | Zadania                  |
+|------------------------------|-----------|--------------------------------------------------------------------|--------------------------|
+| Týždeň 1<br>17. 2. - 23. 2.  | [Úvod do neurónových sietí](lectures/Lecture01-Introduction-to-Neural-Networks.pdf)           | [matematické základy neurónových sietí](labs/01-maths.pdf)         | [zverejnenie zadania 1](assignments/assignment1.md)    |
 | Týždeň 2<br>24. 2. - 1. 3.   |           | perceptrón                                                         |                          |
 | Týždeň 3<br>2. 3. - 8. 3.    |           | multilayer perceptron                                              |                          |
 | Týždeň 4<br>9. 3. - 15. 3.   |           | odvodenie backpropagation algoritmu                                | zverejnenie zadania 2    |
