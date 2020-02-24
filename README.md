@@ -18,8 +18,8 @@ Prednáška z predmetu je v utorok o 13:30 v miestnosti S07 (bývalá PC5) v bud
 
 | Týždeň                       | Prednáška | Cvičenie                                                           | Zadania                  |
 |------------------------------|-----------|--------------------------------------------------------------------|--------------------------|
-| Týždeň 1<br>17. 2. - 23. 2.  | [Úvod do neurónových sietí](lectures/Lecture01-Introduction-to-Neural-Networks.pdf)           | [matematické základy neurónových sietí](labs/01-maths.pdf)         | [zverejnenie zadania 1](assignments/assignment1.md)    |
-| Týždeň 2<br>24. 2. - 1. 3.   |           | perceptrón                                                         |                          |
+| Týždeň 1<br>17. 2. - 23. 2.  | [Úvod do neurónových sietí](lectures/Lecture01-Introduction-to-Neural-Networks.pdf)           | [matematické základy neurónových sietí](labs/lab01-maths.pdf)         | [zverejnenie zadania 1](assignments/assignment1.md)    |
+| Týždeň 2<br>24. 2. - 1. 3.   |           | [perceptrón](labs/lab02-perceptron.ipynb)                          |                          |
 | Týždeň 3<br>2. 3. - 8. 3.    |           | multilayer perceptron                                              |                          |
 | Týždeň 4<br>9. 3. - 15. 3.   |           | odvodenie backpropagation algoritmu                                | zverejnenie zadania 2    |
 | Týždeň 5<br>16. 3. - 22. 3.  |           | predspracovanie údajov, metodológia trénovania NS, vyhodnotenie NS | odovzdávka zadania 1     |
