@@ -21,7 +21,7 @@ Prednáška z predmetu je v utorok o 13:30 v miestnosti S07 (bývalá PC5) v bud
 | Týždeň 1<br>17. 2. - 23. 2.  | [Úvod do neurónových sietí](lectures/Lecture01-Introduction-to-Neural-Networks.pdf)           | [matematické základy neurónových sietí](labs/lab01-maths.pdf)         | [zverejnenie zadania 1](assignments/assignment1.md)    |
 | Týždeň 2<br>24. 2. - 1. 3.   |           | [perceptrón](labs/lab02-perceptron.ipynb)                          |                          |
 | Týždeň 3<br>2. 3. - 8. 3.    |           | [multilayer perceptron](labs/lab03-multilayer-perceptron.ipynb)    |                          |
-| Týždeň 4<br>9. 3. - 15. 3.   |           | odvodenie backpropagation algoritmu                                | zverejnenie zadania 2    |
+| Týždeň 4<br>9. 3. - 15. 3.   |           | [odvodenie backpropagation algoritmu](https://brilliant.org/wiki/backpropagation/)                                | [zverejnenie zadania 2](assignments/assignment2.md)    |
 | Týždeň 5<br>16. 3. - 22. 3.  |           | predspracovanie údajov, metodológia trénovania NS, vyhodnotenie NS | odovzdávka zadania 1     |
 | Týždeň 6<br>23. 3. - 29. 3.  |           | prezentácia článkov                                                |                          |
 | Týždeň 7<br>30. 3. - 5. 4.   |           | nekontrolované učenie                                              | zverejnenie zadania 3    |
@@ -46,7 +46,7 @@ Celkové hodnotenie predmetu je 100 bodov (40 + 60 bodov); študent musí získa
 Počas semestra odovzdá každý študent štyri zadania:
 
 1. [prehľadový článok o možnostiach využitia neurónových sietí](assignments/assignment1.md) (15 b),
-2. implementácia algoritmu backpropagation (10 b)
+2. [implementácia algoritmu backpropagation](assignments/assignment2.md) (10 b)
 3. implementácia nekontrolovaného učenia pomocou Kohonenovej siete (10 b),
 4. trénovanie neurónovej siete pre klasifikáciu pomocou knižnice Keras (5 b).
 
