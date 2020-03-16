@@ -22,13 +22,13 @@ Prednáška z predmetu je v utorok o 13:30 v miestnosti S07 (bývalá PC5) v bud
 | Týždeň 2<br>24. 2. - 1. 3.   |           | [perceptrón](labs/lab02-perceptron.ipynb)                          |                          |
 | Týždeň 3<br>2. 3. - 8. 3.    |           | [multilayer perceptron](labs/lab03-multilayer-perceptron.ipynb)    |                          |
 | Týždeň 4<br>9. 3. - 15. 3.   |           | [odvodenie backpropagation algoritmu](https://brilliant.org/wiki/backpropagation/)                                | [zverejnenie zadania 2](assignments/assignment2.md)    |
-| Týždeň 5<br>16. 3. - 22. 3.  |           | predspracovanie údajov, metodológia trénovania NS, vyhodnotenie NS | odovzdávka zadania 1     |
-| Týždeň 6<br>23. 3. - 29. 3.  |           | prezentácia článkov                                                |                          |
+| Týždeň 5<br>16. 3. - 22. 3.  |           | [predspracovanie údajov, metodológia trénovania NS, vyhodnotenie NS](labs/lab05-training-methodology.ipynb) | odovzdávka zadania 1     |
+| Týždeň 6<br>23. 3. - 29. 3.  |           | NS v Tensorflow a Keras                                            |                          |
 | Týždeň 7<br>30. 3. - 5. 4.   |           | nekontrolované učenie                                              | zverejnenie zadania 3    |
 | Týždeň 8<br>6. 4. - 12. 4.   |           | Hebbovo učenie                                                     | odovzdávka zadania 2     |
 | Týždeň 9<br>13. 4. - 19. 4.  |           | Veľká Noc                                                          |                          |
-| Týždeň 10<br>20. 4. - 26. 4. |           | NS v Tensorflow a Keras                                            | zverejnenie zadania 4    |
-| Týždeň 11<br>27. 4. - 3. 5.  |           | autoenkódery                                                       |                          |
+| Týždeň 10<br>20. 4. - 26. 4. |           | autoenkódery                                                       | zverejnenie zadania 4    |
+| Týždeň 11<br>27. 4. - 3. 5.  |           | prezentácia článkov                                                |                          |
 | Týždeň 12<br>4. 5. - 10. 5.  |           | odovzdanie zadaní 3 a 4                                            | odovzdávka zadania 3 a 4 |
 | Týždeň 13<br>11. 5. - 17. 5. |           | zápočtový týždeň                                                   |                          |
 
