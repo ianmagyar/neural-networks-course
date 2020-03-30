@@ -24,7 +24,7 @@ Prednáška z predmetu je v utorok o 13:30 v miestnosti S07 (bývalá PC5) v bud
 | Týždeň 4<br>9. 3. - 15. 3.   |           | [odvodenie backpropagation algoritmu](https://brilliant.org/wiki/backpropagation/)                                | [zverejnenie zadania 2](assignments/assignment2.md)    |
 | Týždeň 5<br>16. 3. - 22. 3.  |           | [predspracovanie údajov, metodológia trénovania NS, vyhodnotenie NS](labs/lab05-training-methodology.ipynb) | odovzdávka zadania 1     |
 | Týždeň 6<br>23. 3. - 29. 3.  |           | [NS v Tensorflow a Keras](labs/lab06-tensorflow-and-keras.ipynb)                                            |                          |
-| Týždeň 7<br>30. 3. - 5. 4.   |           | prezentácia článkov                                                | zverejnenie zadania 3    |
+| Týždeň 7<br>30. 3. - 5. 4.   |           | prezentácia článkov                                                | [zverejnenie zadania 3](assignments/assignment3.md)    |
 | Týždeň 8<br>6. 4. - 12. 4.   |           | nekontrolované učenie                                              | odovzdávka zadania 2     |
 | Týždeň 9<br>13. 4. - 19. 4.  |           | Veľká Noc                                                          |                          |
 | Týždeň 10<br>20. 4. - 26. 4. |           | autoenkódery                                                       | zverejnenie zadania 4    |
@@ -47,8 +47,10 @@ Počas semestra odovzdá každý študent štyri zadania:
 
 1. [prehľadový článok o možnostiach využitia neurónových sietí](assignments/assignment1.md) (15 b),
 2. [implementácia algoritmu backpropagation](assignments/assignment2.md) (10 b)
-3. trénovanie neurónovej siete pre klasifikáciu pomocou knižnice Keras (5 b),
+3. [trénovanie neurónovej siete pre klasifikáciu pomocou knižnice Keras](assignments/assignment3.md) (5 b),
 4. implementácia nekontrolovaného učenia pomocou Kohonenovej siete (10 b).
+
+Priebežné hodnotenie nájdete [v tomto dokumente](https://docs.google.com/spreadsheets/d/1L86NKW3RjyRSYsCOR5Fwe9VssCVYbkIjRHbMLBWxlBg/edit?usp=sharing).
 
 Otázky na skúšku nájdete [tu](exam/otazky_ZNS_skuska.pdf).
 

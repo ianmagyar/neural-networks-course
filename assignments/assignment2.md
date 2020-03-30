@@ -14,7 +14,7 @@ Vaše riešenie sa skladá z troch častí:
 3. **ukážka použitia backpropu v trénovaní neurónovej siete** – hlavná funkcia `main`, v ktorej vytvoríte jednoduchú sieť, načítate dataset, a natrénujete neurónovú sieť na tomto datasete. Proces trénovania musíte znázorniť (graficky, výpisom chyby na konzolu, atď.)
 
 ## Deadline a odovzdávka
-Vaše riešenia odovzdajte do 10. 4. 2020 cez mail na jan.magyar@tuke.sk. Odovzdávate ZIP súbor, ktorý musí obsahovať použitý dataset a Python skript (ak máte viac skriptov, vytvorte súbor `main.py`, ktorý obsahuje hlavnú funkciu). Riešenie musí byť out-of-the-box, t.j. spustiteľné bez konfigurácie a zmien kódu.
+Vaše riešenia odovzdajte do 17. 4. 2020 cez mail na jan.magyar@tuke.sk. Odovzdávate ZIP súbor, ktorý musí obsahovať použitý dataset a Python skript (ak máte viac skriptov, vytvorte súbor `main.py`, ktorý obsahuje hlavnú funkciu). Riešenie musí byť out-of-the-box, t.j. spustiteľné bez konfigurácie a zmien kódu.
 
 ## Hodnotenie
 Za zadanie môžete získať maximálne 10 bodov, ktoré sa udeľujú nasledovne:
