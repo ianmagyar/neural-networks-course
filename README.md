@@ -19,18 +19,18 @@ Prednáška z predmetu je v utorok o 13:30 v miestnosti S07 (bývalá PC5) v bud
 | Týždeň                       | Prednáška | Cvičenie                                                           | Zadania                  |
 |------------------------------|-----------|--------------------------------------------------------------------|--------------------------|
 | Týždeň 1<br>17. 2. - 23. 2.  | [Úvod do neurónových sietí](lectures/Lecture01-Introduction-to-Neural-Networks.pdf)           | [matematické základy neurónových sietí](labs/lab01-maths.pdf)         | [zverejnenie zadania 1](assignments/assignment1.md)    |
-| Týždeň 2<br>24. 2. - 1. 3.   |           | [perceptrón](labs/lab02-perceptron.ipynb)                          |                          |
-| Týždeň 3<br>2. 3. - 8. 3.    |           | [multilayer perceptron](labs/lab03-multilayer-perceptron.ipynb)    |                          |
-| Týždeň 4<br>9. 3. - 15. 3.   |           | [odvodenie backpropagation algoritmu](https://brilliant.org/wiki/backpropagation/)                                | [zverejnenie zadania 2](assignments/assignment2.md)    |
-| Týždeň 5<br>16. 3. - 22. 3.  |           | [predspracovanie údajov, metodológia trénovania NS, vyhodnotenie NS](labs/lab05-training-methodology.ipynb) | odovzdávka zadania 1     |
-| Týždeň 6<br>23. 3. - 29. 3.  |           | [NS v Tensorflow a Keras](labs/lab06-tensorflow-and-keras.ipynb)                                            |                          |
-| Týždeň 7<br>30. 3. - 5. 4.   |           | prezentácia článkov                                                | [zverejnenie zadania 3](assignments/assignment3.md)    |
-| Týždeň 8<br>6. 4. - 12. 4.   |           | nekontrolované učenie                                              | odovzdávka zadania 2     |
-| Týždeň 9<br>13. 4. - 19. 4.  |           | Veľká Noc                                                          |                          |
-| Týždeň 10<br>20. 4. - 26. 4. |           | autoenkódery                                                       | zverejnenie zadania 4    |
-| Týždeň 11<br>27. 4. - 3. 5.  |           | Hebbovo učenie                                                     |                          |
-| Týždeň 12<br>4. 5. - 10. 5.  |           | odovzdanie zadaní 3 a 4                                            | odovzdávka zadania 3 a 4 |
-| Týždeň 13<br>11. 5. - 17. 5. |           | zápočtový týždeň                                                   |                          |
+| Týždeň 2<br>24. 2. - 1. 3.   | Biologické aspekty modelovania NS, výpočtová a virtuálna inteligencia, NS ako prostriedok UI, základné prvky topológie NS, stratégie učenia NS | [perceptrón](labs/lab02-perceptron.ipynb)                          |                          |
+| Týždeň 3<br>2. 3. - 8. 3.    | Globálna stabilita NS, konvergencia NS, typy riešených úloh pomocou NS, kontrolované učenie na FF NS, perceptrón, konvergenčná teoréma, XOR problém, terminologický problém perceptrónu | [multilayer perceptron](labs/lab03-multilayer-perceptron.ipynb)    |                          |
+| Týždeň 4<br>9. 3. - 15. 3.   | Wienerove filtre, metóda najstrmšieho zostupu, metóda najmenšej kvadratickej chyby, Adaline, delta pravidlo | [odvodenie backpropagation algoritmu](https://brilliant.org/wiki/backpropagation/)                                | [zverejnenie zadania 2](assignments/assignment2.md)    |
+| Týždeň 5<br>16. 3. - 22. 3.  | Metóda spätného šírenia chyby (backpropagation), BP cez čas, metódy urýchlenia konvergencie BP, funkcionálne linky, RBF siete, metóda kaskádnej korelácie BP | [predspracovanie údajov, metodológia trénovania NS, vyhodnotenie NS](labs/lab05-training-methodology.ipynb) | odovzdávka zadania 1     |
+| Týždeň 6<br>23. 3. - 29. 3.  | Dôležité poznámky k návrhu NS | [NS v Tensorflow a Keras](labs/lab06-tensorflow-and-keras.ipynb)                                            |                          |
+| Týždeň 7<br>30. 3. - 5. 4.   | Nekontrolované učenie na FF NS, konkurenčné učenie, MAXNET, Kohonenove siete, Ojove adaptačné pravidlo | prezentácia článkov                                                | [zverejnenie zadania 3](assignments/assignment3.md)    |
+| Týždeň 8<br>6. 4. - 12. 4.   | Hybridné metódy učenia na FF NS, counterpropagation, time-delay vstupy na FF NS, rekurentné NS, Hopfieldova NS | nekontrolované učenie                                              | odovzdávka zadania 2     |
+| Týždeň 9<br>13. 4. - 19. 4.  | Veľká Noc | Veľká Noc                                                          |                          |
+| Týždeň 10<br>20. 4. - 26. 4. | Kontrolované učenie na RC NS, BP na RC NS, Jordanove a Elmanove siete | autoenkódery                                                       | zverejnenie zadania 4    |
+| Týždeň 11<br>27. 4. - 3. 5.  | Nekontrolované učenie na RC NS, ART NS | Hebbovo učenie                                                     |                          |
+| Týždeň 12<br>4. 5. - 10. 5.  | Hybridné prístupy k učeniu, učenie na základe stavu systému | odovzdanie zadaní 3 a 4                                            | odovzdávka zadania 3 a 4 |
+| Týždeň 13<br>11. 5. - 17. 5. | Modulárne NS, základné princípy multiagentových systémov | zápočtový týždeň                                                   |                          |
 
 ## Odkazy na pomocné materiály <a name="links"></a>
 * [Návod na inštaláciu Pythona](labs/lab00-getting-started.md)
