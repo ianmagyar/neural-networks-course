@@ -27,7 +27,7 @@ Prednáška z predmetu je v utorok o 13:30 v miestnosti S07 (bývalá PC5) v bud
 | Týždeň 7<br>30. 3. - 5. 4.   | Nekontrolované učenie na FF NS, konkurenčné učenie, MAXNET, Kohonenove siete, Ojove adaptačné pravidlo | prezentácia článkov                                                | [zverejnenie zadania 3](assignments/assignment3.md)    |
 | Týždeň 8<br>6. 4. - 12. 4.   | Hybridné metódy učenia na FF NS, counterpropagation, time-delay vstupy na FF NS, rekurentné NS, Hopfieldova NS | [nekontrolované učenie](labs/lab08-unsupervised-learning.ipynb) |                     |
 | Týždeň 9<br>13. 4. - 19. 4.  | Veľká Noc | Veľká Noc                                                          | odovzdávka zadania 2       |
-| Týždeň 10<br>20. 4. - 26. 4. | Kontrolované učenie na RC NS, BP na RC NS, Jordanove a Elmanove siete | autoenkódery                                                       | [zverejnenie zadania 4](assignments/assignment4.md)    |
+| Týždeň 10<br>20. 4. - 26. 4. | Kontrolované učenie na RC NS, BP na RC NS, Jordanove a Elmanove siete | [autoenkódery](labs/lab10-autoencoders.ipynb)                                                       | [zverejnenie zadania 4](assignments/assignment4.md)    |
 | Týždeň 11<br>27. 4. - 3. 5.  | Nekontrolované učenie na RC NS, ART NS | Hebbovo učenie                                                     |                          |
 | Týždeň 12<br>4. 5. - 10. 5.  | Hybridné prístupy k učeniu, učenie na základe stavu systému | odovzdanie zadaní 3 a 4                                            | odovzdávka zadania 3 a 4 |
 | Týždeň 13<br>11. 5. - 17. 5. | Modulárne NS, základné princípy multiagentových systémov | zápočtový týždeň                                                   |                          |
