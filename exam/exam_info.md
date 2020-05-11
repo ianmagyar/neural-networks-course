@@ -13,4 +13,4 @@ Skúška sa skladá z dvoch častí: z praktickej a teoretickej. Na praktickej �
 
 Vaše praktické riešenie potrebujete aj obhájiť, t.j. musíte byť schopní odpovedať na otázky týkajúce sa kódu (použité funkcie a ich parametre) a všeobecnej metodológie trénovania neurónových sietí. Za praktickú časť môžete získať maximálne 20 bodov, v teoretickej časti môžete pokračovať iba ak získate minimálne 11 bodov z praktickej časti. Praktickú časť môžete napísať na hromadnom termíne v prvom týždni skúškového obdobia (18. 5. - 21. 5.) alebo neskôr v deň ústnej časti (máte nárok aj na opravný termín z praktickej časti).
 
-Teoretická časť bude čisto ústna, formou diskusie menších skupín niekoľko študentov. Všetky termíny budú online v prostredí Microsoft Teams. [Otázky na skúšku nájdete tu.](skuska_otazky.pdf)
+Teoretická časť bude čisto ústna, formou diskusie menších skupín niekoľko študentov. Všetky termíny budú online v prostredí Microsoft Teams, preto si prosím zabezpečte mikrofón aj kameru. [Otázky na skúšku nájdete tu.](skuska_otazky.pdf)
