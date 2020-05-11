@@ -52,7 +52,7 @@ Počas semestra odovzdá každý študent štyri zadania:
 
 Priebežné hodnotenie nájdete [v tomto dokumente](https://docs.google.com/spreadsheets/d/1L86NKW3RjyRSYsCOR5Fwe9VssCVYbkIjRHbMLBWxlBg/edit?usp=sharing).
 
-Otázky na skúšku nájdete [tu](exam/otazky_ZNS_skuska.pdf).
+Otázky na skúšku nájdete [tu](exam/skuska_otazky.pdf). Podrobnejšie informácie k realizácii skúšky [sú dostupné tu](exam/exam_info.md).
 
 ## Odporúčaná literatúra <a name="textbooks"></a>
 
