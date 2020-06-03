@@ -54,6 +54,10 @@ Priebežné hodnotenie nájdete [v tomto dokumente](https://docs.google.com/spre
 
 Otázky na skúšku nájdete [tu](exam/skuska_otazky.pdf). Podrobnejšie informácie k realizácii skúšky [sú dostupné tu](exam/exam_info.md).
 
+Otázky z predošlých termínov:
+
+* 3. 6. 2020 - [skupina A](exam/3-6-2020A.pdf); [skupina B](exam/3-6-2020B.pdf)
+
 ## Odporúčaná literatúra <a name="textbooks"></a>
 
 * SINČÁK, ANDREJKOVÁ: Neuronové siete I., Inžiniersky prístup, Elfa, Košice, 1996 - [1. diel](lectures/Neuronove_siete_1.pdf), [2. diel](lectures/Neuronove_siete_2.pdf)
