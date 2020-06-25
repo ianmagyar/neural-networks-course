@@ -60,6 +60,7 @@ Otázky z predošlých termínov:
 * [5. 6. 2020](exam/5-6-2020.pdf)
 * [10. 6. 2020](exam/10-6-2020.pdf)
 * [17. 6. 2020](exam/17-6-2020.pdf)
+* [22. 6. 2020](exam/22-6-2020.pdf)
 
 ## Odporúčaná literatúra <a name="textbooks"></a>
 
