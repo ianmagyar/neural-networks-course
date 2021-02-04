@@ -8,12 +8,12 @@ Na tomto predmete použijeme Python 3, ktorú si môžete stiahnuť z [web strá
 ### Krok 1.1: Nainštalujte si Anacondu
 Anaconda je voľne dostupná z [tejto stránky](https://www.anaconda.com/distribution/). Dávajte si pozor, aby ste nainštalovali verziu s Pythonom 3.
 
-### Krok 1.2: Vytvorte virtuálne prostredie s Pythonom 3.7
-Anaconda je dostupná iba pre najnovšie verzie Pythonu, teda v čase písania tohto návodu 3.7. Python aj Anaconda ale umožnia vytvorenie virtuálnych prostredí. Predstavte si to ako sandbox, v ktorom môžete mať nainštalované ľubovoľné knižnice a nástroje bez toho aby ste ovplyvnili hlavné prostredie. Práca s virtuálnymi prostrediami ďalej zabráni tomu, aby ste znefunkčnili inštaláciu Pythonu. V prípade problémov s virtuálnym prostredí viete ho jednoducho vymazať a vytvoriť nové.
+### Krok 1.2: Vytvorte virtuálne prostredie s Pythonom 3.8
+Anaconda je dostupná iba pre najnovšie verzie Pythonu, teda v čase písania tohto návodu 3.8. Python aj Anaconda ale umožnia vytvorenie virtuálnych prostredí. Predstavte si to ako sandbox, v ktorom môžete mať nainštalované ľubovoľné knižnice a nástroje bez toho aby ste ovplyvnili hlavné prostredie. Práca s virtuálnymi prostrediami ďalej zabráni tomu, aby ste znefunkčnili inštaláciu Pythonu. V prípade problémov s virtuálnym prostredí viete ho jednoducho vymazať a vytvoriť nové.
 
 Vytvorenie virtuálneho prostredie je veľmi jednoduché (podrobný návod [tu](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html#managing-python)). Spustite príkazový riadok Anacondy (Anaconda Prompt) s admin právami a zadajte príkaz
 
-```conda create --name VENV_NAME python=3.7```
+```conda create --name VENV_NAME python=3.8```
 
 kde `VENV_NAME` je názov virtuálneho prostredia a parameter `python` špecifikuje verziu jazyka. Aby ste mohli pracovať s virtuálnym prostredím, musíte ho aktivovať príkazom:
 
