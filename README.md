@@ -1,10 +1,8 @@
 # Neurónové siete
 
-**Neurónové siete** je kurz ponúknutý v druhom ročníku bakalárskeho štúdia pre študijný program Inteligentné systémy. Kurz nadväzuje na kurzy [Základy inteligencie systémov](http://www.cloudai.sk/courses-zis/) a [Umelá inteligencia](http://www.cloudai.sk/umela-inteligencia/). Venuje sa umelým neurónovým sieťam, ich typov a využitiu.
+**Neurónové siete** je kurz ponúknutý v druhom ročníku bakalárskeho štúdia pre študijný program Inteligentné systémy. Kurz nadväzuje na kurzy [Základy inteligencie systémov](http://www.cloudai.sk/courses-zis/) a [Umelá inteligencia](http://www.cloudai.sk/umela-inteligencia/). Venuje sa umelým neurónovým sieťam, ich typom a využitiu.
 
 Informačný list predmetu je dostupný na [školskom portáli](https://maisportal.tuke.sk/portal/studijneProgramy.mais).
-
-Pridajte sa do [facebook skupiny predmetu](https://www.facebook.com/groups/2627782910654322/).
 
 ## Obsah
 1. [Plán prednášok a cvičení](#plan)
@@ -14,23 +12,25 @@ Pridajte sa do [facebook skupiny predmetu](https://www.facebook.com/groups/26277
 
 ## Plán prednášok a cvičení <a name="plan"></a>
 
+**Vzhľadom na pretrvávajúce opatrenia v súvislosti s pandémiou COVID-19 všetky prednášky a cvičenia sú online až do odvolania.**
+
 Prednáška z predmetu je v utorok o 13:30 v miestnosti S07 (bývalá PC5) v budove PK6. Cvičenia sú v pondelok o 7:30 v miestnosti 102 v budove V4 a o 10:50 v miestnosti 147 v budove V4. Účasť na cvičeniach je povinná, študent môže mať maximálne tri neúčasti za semester.
 
 | Týždeň                       | Prednáška | Cvičenie                                                           | Zadania                  |
 |------------------------------|-----------|--------------------------------------------------------------------|--------------------------|
-| Týždeň 1<br>17. 2. - 23. 2.  | [Úvod do neurónových sietí](lectures/Lecture01-Introduction-to-Neural-Networks.pdf)           | [matematické základy neurónových sietí](labs/lab01-maths.pdf)         | [zverejnenie zadania 1](assignments/assignment1.md)    |
-| Týždeň 2<br>24. 2. - 1. 3.   | Biologické aspekty modelovania NS, výpočtová a virtuálna inteligencia, NS ako prostriedok UI, základné prvky topológie NS, stratégie učenia NS | [perceptrón](labs/lab02-perceptron.ipynb)                          |                          |
-| Týždeň 3<br>2. 3. - 8. 3.    | Globálna stabilita NS, konvergencia NS, typy riešených úloh pomocou NS, kontrolované učenie na FF NS, perceptrón, konvergenčná teoréma, XOR problém, terminologický problém perceptrónu | [multilayer perceptron](labs/lab03-multilayer-perceptron.ipynb)    |                          |
-| Týždeň 4<br>9. 3. - 15. 3.   | Wienerove filtre, metóda najstrmšieho zostupu, metóda najmenšej kvadratickej chyby, Adaline, delta pravidlo | [odvodenie backpropagation algoritmu](https://brilliant.org/wiki/backpropagation/)                                | [zverejnenie zadania 2](assignments/assignment2.md)    |
-| Týždeň 5<br>16. 3. - 22. 3.  | Metóda spätného šírenia chyby (backpropagation), BP cez čas, metódy urýchlenia konvergencie BP, funkcionálne linky, RBF siete, metóda kaskádnej korelácie BP | [predspracovanie údajov, metodológia trénovania NS, vyhodnotenie NS](labs/lab05-training-methodology.ipynb) | odovzdávka zadania 1     |
-| Týždeň 6<br>23. 3. - 29. 3.  | Dôležité poznámky k návrhu NS | [NS v Tensorflow a Keras](labs/lab06-tensorflow-and-keras.ipynb)                                            |                          |
-| Týždeň 7<br>30. 3. - 5. 4.   | Nekontrolované učenie na FF NS, konkurenčné učenie, MAXNET, Kohonenove siete, Ojove adaptačné pravidlo | prezentácia článkov                                                | [zverejnenie zadania 3](assignments/assignment3.md)    |
-| Týždeň 8<br>6. 4. - 12. 4.   | Hybridné metódy učenia na FF NS, counterpropagation, time-delay vstupy na FF NS, rekurentné NS, Hopfieldova NS | [nekontrolované učenie](labs/lab08-unsupervised-learning.ipynb) |                     |
-| Týždeň 9<br>13. 4. - 19. 4.  | Veľká Noc | Veľká Noc                                                          | odovzdávka zadania 2       |
-| Týždeň 10<br>20. 4. - 26. 4. | Kontrolované učenie na RC NS, BP na RC NS, Jordanove a Elmanove siete | [autoenkódery](labs/lab10-autoencoders.ipynb)                                                       | [zverejnenie zadania 4](assignments/assignment4.md)    |
-| Týždeň 11<br>27. 4. - 3. 5.  | Nekontrolované učenie na RC NS, ART NS | [Hebbovo učenie](labs/lab11-hebbian-learning.ipynb)   |                          |
-| Týždeň 12<br>4. 5. - 10. 5.  | Hybridné prístupy k učeniu, učenie na základe stavu systému | odovzdanie zadaní 3 a 4                                            | odovzdávka zadania 3 a 4 |
-| Týždeň 13<br>11. 5. - 17. 5. | Modulárne NS, základné princípy multiagentových systémov | zápočtový týždeň                                                   |                          |
+| Týždeň 1<br>15. 2. - 21. 2.  | Úvod do neurónových sietí  | matematické základy neurónových sietí         | [zverejnenie zadania 1](assignments/assignment1.md)    |
+| Týždeň 2<br>22. 2. - 28. 2.   | Biologické aspekty modelovania NS, výpočtová a virtuálna inteligencia, NS ako prostriedok UI, základné prvky topológie NS, stratégie učenia NS | perceptrón |                          |
+| Týždeň 3<br>1. 3. - 7. 3.    | Globálna stabilita NS, konvergencia NS, typy riešených úloh pomocou NS, kontrolované učenie na FF NS, perceptrón, konvergenčná teoréma, XOR problém, terminologický problém perceptrónu | multilayer perceptron |                          |
+| Týždeň 4<br>8. 3. - 14. 3.   | Wienerove filtre, metóda najstrmšieho zostupu, metóda najmenšej kvadratickej chyby, Adaline, delta pravidlo | odvodenie backpropagation algoritmu        | zverejnenie zadania 2 |
+| Týždeň 5<br>15. 3. - 21. 3.  | Metóda spätného šírenia chyby (backpropagation), BP cez čas, metódy urýchlenia konvergencie BP, funkcionálne linky, RBF siete, metóda kaskádnej korelácie BP | predspracovanie údajov, metodológia trénovania NS, vyhodnotenie NS | odovzdávka zadania 1     |
+| Týždeň 6<br>22. 3. - 28. 3.  | Dôležité poznámky k návrhu NS | NS v Tensorflow a Keras                |                          |
+| Týždeň 7<br>29. 3. - 4. 4.   | Nekontrolované učenie na FF NS, konkurenčné učenie, MAXNET, Kohonenove siete, Ojove adaptačné pravidlo | prezentácia článkov                                                | zverejnenie zadania 3    |
+| Týždeň 8<br>5. 4. - 11. 4.   | Veľká Noc | Veľká Noc                                                          |                          |
+| Týždeň 9<br>12. 4. - 18. 4.  | Hybridné metódy učenia na FF NS, counterpropagation, time-delay vstupy na FF NS, rekurentné NS, Hopfieldova NS | nekontrolované učenie | odovzdávka zadania 2       |
+| Týždeň 10<br>19. 4. - 25. 4. | Kontrolované učenie na RC NS, BP na RC NS, Jordanove a Elmanove siete | autoenkódery  | zverejnenie zadania 4 |
+| Týždeň 11<br>26. 4. - 2. 5.  | Nekontrolované učenie na RC NS, ART NS | Hebbovo učenie |                          |
+| Týždeň 12<br>3. 5. - 19. 5.  | Hybridné prístupy k učeniu, učenie na základe stavu systému | odovzdanie zadaní 3 a 4                                            | odovzdávka zadania 3 a 4 |
+| Týždeň 13<br>10. 5. - 16. 5. | Modulárne NS, základné princípy multiagentových systémov | zápočtový týždeň                                                   |                          |
 
 ## Odkazy na pomocné materiály <a name="links"></a>
 * [Návod na inštaláciu Pythona](labs/lab00-getting-started.md)
@@ -46,21 +46,13 @@ Celkové hodnotenie predmetu je 100 bodov (40 + 60 bodov); študent musí získa
 Počas semestra odovzdá každý študent štyri zadania:
 
 1. [prehľadový článok o možnostiach využitia neurónových sietí](assignments/assignment1.md) (15 b),
-2. [implementácia algoritmu backpropagation](assignments/assignment2.md) (10 b)
-3. [trénovanie neurónovej siete pre klasifikáciu pomocou knižnice Keras](assignments/assignment3.md) (5 b),
-4. [implementácia nekontrolovaného učenia pomocou Kohonenovej siete](assignments/assignment4.md) (10 b).
+2. implementácia algoritmu backpropagation (10 b)
+3. trénovanie neurónovej siete pre klasifikáciu pomocou knižnice Keras (5 b),
+4. implementácia nekontrolovaného učenia pomocou Kohonenovej siete (10 b).
 
-Priebežné hodnotenie nájdete [v tomto dokumente](https://docs.google.com/spreadsheets/d/1L86NKW3RjyRSYsCOR5Fwe9VssCVYbkIjRHbMLBWxlBg/edit?usp=sharing).
+<!--Priebežné hodnotenie nájdete [v tomto dokumente]( ).-->
 
 Otázky na skúšku nájdete [tu](exam/skuska_otazky.pdf). Podrobnejšie informácie k realizácii skúšky [sú dostupné tu](exam/exam_info.md).
-
-Otázky z predošlých termínov:
-
-* 3\. 6\. 2020 - [skupina A](exam/3-6-2020A.pdf); [skupina B](exam/3-6-2020B.pdf)
-* [5. 6. 2020](exam/5-6-2020.pdf)
-* [10. 6. 2020](exam/10-6-2020.pdf)
-* [17. 6. 2020](exam/17-6-2020.pdf)
-* [22. 6. 2020](exam/22-6-2020.pdf)
 
 ## Odporúčaná literatúra <a name="textbooks"></a>
 
