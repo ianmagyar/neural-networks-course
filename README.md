@@ -50,7 +50,7 @@ Počas semestra odovzdá každý študent štyri zadania:
 3. trénovanie neurónovej siete pre klasifikáciu pomocou knižnice Keras (5 b),
 4. implementácia nekontrolovaného učenia pomocou Kohonenovej siete (10 b).
 
-<!--Priebežné hodnotenie nájdete [v tomto dokumente]( ).-->
+Priebežné hodnotenie nájdete [v tomto dokumente](https://docs.google.com/spreadsheets/d/136G83LJc4GKVlvZxxBLwh4AEXameV242nDkN86aO_nI/edit?usp=sharing).
 
 Otázky na skúšku nájdete [tu](exam/skuska_otazky.pdf). Podrobnejšie informácie k realizácii skúšky [sú dostupné tu](exam/exam_info.md).
 

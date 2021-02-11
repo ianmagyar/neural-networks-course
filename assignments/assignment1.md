@@ -40,7 +40,7 @@ Odporúčaná štruktúra článku:
 17. Využitie neurónových sietí v personalizácii obsahu streamovacích služieb
 18. Využitie neurónových sietí v antivírusových systémoch
 19. Využitie neurónových sietí v podpore ľudí so zdravotným postihnutím
-20. Využitie neurónových sietí v športovej analýze (z hľadiska športovcov)
+20. Využitie neurónových sietí v športovej analýze
 
 ## Deadline a odovzdávka
 Deadline odovzdania je 19. 3. 2020. Súčasťou odovzdávky je aj prezentácia, ktorú odprezentujete na cvičeniach v 7. týždni. Zadania nahrajte cez MS Teams alebo zdielaním LaTeX projektu na [Overleaf](https://www.overleaf.com). Ak článok nahrávate na MS Teams, odovzdávka musí obsahovať PDF súbor článku aj zazipovaný LaTeX projekt.
