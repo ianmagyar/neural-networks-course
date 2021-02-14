@@ -43,7 +43,7 @@ Odporúčaná štruktúra článku:
 20. Využitie neurónových sietí v športovej analýze
 
 ## Deadline a odovzdávka
-Deadline odovzdania je 19. 3. 2020. Súčasťou odovzdávky je aj prezentácia, ktorú odprezentujete na cvičeniach v 7. týždni. Zadania nahrajte cez MS Teams alebo zdielaním LaTeX projektu na [Overleaf](https://www.overleaf.com). Ak článok nahrávate na MS Teams, odovzdávka musí obsahovať PDF súbor článku aj zazipovaný LaTeX projekt.
+Deadline odovzdania je 21. 3. 2021. Súčasťou odovzdávky je aj prezentácia, ktorú odprezentujete na cvičeniach v 7. týždni. Zadania nahrajte cez MS Teams alebo zdielaním LaTeX projektu na [Overleaf](https://www.overleaf.com). Ak článok nahrávate na MS Teams, odovzdávka musí obsahovať PDF súbor článku aj zazipovaný LaTeX projekt.
 
 ## Hodnotenie
 Za článok môžete získať maximálne 15 bodov, z toho 5 bodov dostanete za prezentáciu a obhajobu v 7. týždni. Ďalšie body sa udeľujú nasledovne:
