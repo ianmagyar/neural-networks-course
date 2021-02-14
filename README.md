@@ -18,7 +18,7 @@ Prednáška z predmetu je v utorok o 13:30 v miestnosti S07 (bývalá PC5) v bud
 
 | Týždeň                       | Prednáška | Cvičenie                                                           | Zadania                  |
 |------------------------------|-----------|--------------------------------------------------------------------|--------------------------|
-| Týždeň 1<br>15. 2. - 21. 2.  | Úvod do neurónových sietí  | matematické základy neurónových sietí         | [zverejnenie zadania 1](assignments/assignment1.md)    |
+| Týždeň 1<br>15. 2. - 21. 2.  | Úvod do neurónových sietí  | [matematické základy neurónových sietí](labs/lab01-basic-maths.pdf)         | [zverejnenie zadania 1](assignments/assignment1.md)    |
 | Týždeň 2<br>22. 2. - 28. 2.   | Biologické aspekty modelovania NS, výpočtová a virtuálna inteligencia, NS ako prostriedok UI, základné prvky topológie NS, stratégie učenia NS | perceptrón |                          |
 | Týždeň 3<br>1. 3. - 7. 3.    | Globálna stabilita NS, konvergencia NS, typy riešených úloh pomocou NS, kontrolované učenie na FF NS, perceptrón, konvergenčná teoréma, XOR problém, terminologický problém perceptrónu | multilayer perceptron |                          |
 | Týždeň 4<br>8. 3. - 14. 3.   | Wienerove filtre, metóda najstrmšieho zostupu, metóda najmenšej kvadratickej chyby, Adaline, delta pravidlo | odvodenie backpropagation algoritmu        | zverejnenie zadania 2 |
