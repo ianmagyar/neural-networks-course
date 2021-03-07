@@ -21,7 +21,7 @@ Prednáška z predmetu je v utorok o 13:30 v miestnosti S07 (bývalá PC5) v bud
 | Týždeň 1<br>15. 2. - 21. 2.  | Úvod do neurónových sietí  | [matematické základy neurónových sietí](labs/lab01-basic-maths.pdf)         | [zverejnenie zadania 1](assignments/assignment1.md)    |
 | Týždeň 2<br>22. 2. - 28. 2.   | Biologické aspekty modelovania NS, výpočtová a virtuálna inteligencia, NS ako prostriedok UI, základné prvky topológie NS, stratégie učenia NS | [perceptrón](labs/lab02-Perceptron.ipynb) |                          |
 | Týždeň 3<br>1. 3. - 7. 3.    | Globálna stabilita NS, konvergencia NS, typy riešených úloh pomocou NS, kontrolované učenie na FF NS, perceptrón, konvergenčná teoréma, XOR problém, terminologický problém perceptrónu | [multilayer perceptron](labs/lab03-multilayer-perceptron.ipynb) |                          |
-| Týždeň 4<br>8. 3. - 14. 3.   | Wienerove filtre, metóda najstrmšieho zostupu, metóda najmenšej kvadratickej chyby, Adaline, delta pravidlo | odvodenie backpropagation algoritmu        | zverejnenie zadania 2 |
+| Týždeň 4<br>8. 3. - 14. 3.   | Wienerove filtre, metóda najstrmšieho zostupu, metóda najmenšej kvadratickej chyby, Adaline, delta pravidlo | [odvodenie backpropagation algoritmu](https://brilliant.org/wiki/backpropagation/)        | [zverejnenie zadania 2](assignments/assignment2.md) |
 | Týždeň 5<br>15. 3. - 21. 3.  | Metóda spätného šírenia chyby (backpropagation), BP cez čas, metódy urýchlenia konvergencie BP, funkcionálne linky, RBF siete, metóda kaskádnej korelácie BP | predspracovanie údajov, metodológia trénovania NS, vyhodnotenie NS | odovzdávka zadania 1     |
 | Týždeň 6<br>22. 3. - 28. 3.  | Dôležité poznámky k návrhu NS | NS v Tensorflow a Keras                |                          |
 | Týždeň 7<br>29. 3. - 4. 4.   | Nekontrolované učenie na FF NS, konkurenčné učenie, MAXNET, Kohonenove siete, Ojove adaptačné pravidlo | prezentácia článkov                                                | zverejnenie zadania 3    |
@@ -46,7 +46,7 @@ Celkové hodnotenie predmetu je 100 bodov (40 + 60 bodov); študent musí získa
 Počas semestra odovzdá každý študent štyri zadania:
 
 1. [prehľadový článok o možnostiach využitia neurónových sietí](assignments/assignment1.md) (15 b),
-2. implementácia algoritmu backpropagation (10 b)
+2. [implementácia algoritmu backpropagation](assignments/assignment2.md) (10 b)
 3. trénovanie neurónovej siete pre klasifikáciu pomocou knižnice Keras (5 b),
 4. implementácia nekontrolovaného učenia pomocou Kohonenovej siete (10 b).
 
