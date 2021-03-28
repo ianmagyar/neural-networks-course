@@ -24,7 +24,7 @@ Prednáška z predmetu je v utorok o 13:30 v miestnosti S07 (bývalá PC5) v bud
 | Týždeň 4<br>8. 3. - 14. 3.   | Wienerove filtre, metóda najstrmšieho zostupu, metóda najmenšej kvadratickej chyby, Adaline, delta pravidlo | [odvodenie backpropagation algoritmu](https://brilliant.org/wiki/backpropagation/)<br>[príklad](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)        | [zverejnenie zadania 2](assignments/assignment2.md) |
 | Týždeň 5<br>15. 3. - 21. 3.  | Metóda spätného šírenia chyby (backpropagation), BP cez čas, metódy urýchlenia konvergencie BP, funkcionálne linky, RBF siete, metóda kaskádnej korelácie BP | [predspracovanie údajov, metodológia trénovania NS, vyhodnotenie NS](labs/lab05-training-methodology.ipynb) | odovzdávka zadania 1     |
 | Týždeň 6<br>22. 3. - 28. 3.  | Dôležité poznámky k návrhu NS | [NS v Tensorflow a Keras](labs/lab06-tensorflow-and-keras.ipynb)                |                          |
-| Týždeň 7<br>29. 3. - 4. 4.   | Nekontrolované učenie na FF NS, konkurenčné učenie, MAXNET, Kohonenove siete, Ojove adaptačné pravidlo | prezentácia článkov                                                | zverejnenie zadania 3    |
+| Týždeň 7<br>29. 3. - 4. 4.   | Nekontrolované učenie na FF NS, konkurenčné učenie, MAXNET, Kohonenove siete, Ojove adaptačné pravidlo | prezentácia článkov                                                | [zverejnenie zadania 3](assignments/assignment3.md)    |
 | Týždeň 8<br>5. 4. - 11. 4.   | Veľká Noc | Veľká Noc                                                          |                          |
 | Týždeň 9<br>12. 4. - 18. 4.  | Hybridné metódy učenia na FF NS, counterpropagation, time-delay vstupy na FF NS, rekurentné NS, Hopfieldova NS | nekontrolované učenie | odovzdávka zadania 2       |
 | Týždeň 10<br>19. 4. - 25. 4. | Kontrolované učenie na RC NS, BP na RC NS, Jordanove a Elmanove siete | autoenkódery  | zverejnenie zadania 4 |
@@ -47,7 +47,7 @@ Počas semestra odovzdá každý študent štyri zadania:
 
 1. [prehľadový článok o možnostiach využitia neurónových sietí](assignments/assignment1.md) (15 b),
 2. [implementácia algoritmu backpropagation](assignments/assignment2.md) (10 b)
-3. trénovanie neurónovej siete pre klasifikáciu pomocou knižnice Keras (5 b),
+3. [trénovanie neurónovej siete pre klasifikáciu pomocou knižnice Keras](assignments/assignment3.md) (5 b),
 4. implementácia nekontrolovaného učenia pomocou Kohonenovej siete (10 b).
 
 Podmienkou pre získanie zápočtu je dokončenie online kurzu UI do 12. 3. 2021 a následné poskytnutie feedbacku o kvalite kurzu. Bližšie informácie budú zverejnené v prvom týždni semestra.
