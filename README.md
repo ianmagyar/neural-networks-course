@@ -27,8 +27,8 @@ Prednáška z predmetu je v utorok o 13:30 v miestnosti S07 (bývalá PC5) v bud
 | Týždeň 7<br>29. 3. - 4. 4.   | Nekontrolované učenie na FF NS, konkurenčné učenie, MAXNET, Kohonenove siete, Ojove adaptačné pravidlo | prezentácia článkov                                                | [zverejnenie zadania 3](assignments/assignment3.md)    |
 | Týždeň 8<br>5. 4. - 11. 4.   | Veľká Noc | Veľká Noc                                                          |                          |
 | Týždeň 9<br>12. 4. - 18. 4.  | Hybridné metódy učenia na FF NS, counterpropagation, time-delay vstupy na FF NS, rekurentné NS, Hopfieldova NS | [nekontrolované učenie](labs/lab08-unsupervised-learning.ipynb) | odovzdávka zadania 2       |
-| Týždeň 10<br>19. 4. - 25. 4. | Kontrolované učenie na RC NS, BP na RC NS, Jordanove a Elmanove siete | autoenkódery  | zverejnenie zadania 4 |
-| Týždeň 11<br>26. 4. - 2. 5.  | Nekontrolované učenie na RC NS, ART NS | Hebbovo učenie |                          |
+| Týždeň 10<br>19. 4. - 25. 4. | Kontrolované učenie na RC NS, BP na RC NS, Jordanove a Elmanove siete | [autoenkódery](labs/lab09-autoencoders.ipynb)  | zverejnenie zadania 4 |
+| Týždeň 11<br>26. 4. - 2. 5.  | Nekontrolované učenie na RC NS, ART NS | [Hebbovo učenie](labs/lab10-hebbian-learning.ipynb) |                          |
 | Týždeň 12<br>3. 5. - 19. 5.  | Hybridné prístupy k učeniu, učenie na základe stavu systému | odovzdanie zadaní 3 a 4                                            | odovzdávka zadania 3 a 4 |
 | Týždeň 13<br>10. 5. - 16. 5. | Modulárne NS, základné princípy multiagentových systémov | zápočtový týždeň                                                   |                          |
 
@@ -48,7 +48,7 @@ Počas semestra odovzdá každý študent štyri zadania:
 1. [prehľadový článok o možnostiach využitia neurónových sietí](assignments/assignment1.md) (15 b),
 2. [implementácia algoritmu backpropagation](assignments/assignment2.md) (10 b)
 3. [trénovanie neurónovej siete pre klasifikáciu pomocou knižnice Keras](assignments/assignment3.md) (5 b),
-4. implementácia nekontrolovaného učenia pomocou Kohonenovej siete (10 b).
+4. [implementácia nekontrolovaného učenia pomocou Kohonenovej siete](assignments/assignment4.md) (10 b).
 
 Podmienkou pre získanie zápočtu je dokončenie online kurzu UI do 12. 3. 2021 a následné poskytnutie feedbacku o kvalite kurzu. Bližšie informácie budú zverejnené v prvom týždni semestra.
 
